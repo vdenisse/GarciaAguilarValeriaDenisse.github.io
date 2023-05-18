@@ -1,0 +1,37 @@
+body{
+
+font-family: Verdana; 
+  background: url("https://colorate.azurewebsites.net/SwatchColor/E6E6FA"); 
+  background-repeat:repeat;
+}
+
+h1, p{
+color:#000000; 
+size: 20;
+text-align: center;
+}
+
+div{
+
+width:60%;
+height:500px;
+background: #ffffff; 
+margin:auto;
+}
+
+.negritas{
+font-weight: bold; 
+font-size: 18px;
+
+}
+
+div{
+  width: 60%
+    height:300px;
+  border-color:#9CB4FA #1C1C1C #9CB4FA #1C1C1C;
+  border-width:10px 15px 10px 20px;
+  border-style:solid dotted dashed double;
+  
+  background: orange
+    text-align: justify;
+}
